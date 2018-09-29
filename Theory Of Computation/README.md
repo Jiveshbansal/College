@@ -6,7 +6,7 @@
 
 Complete introduction to Theory of Computation: [PDF](https://git.io/fxf3Y)
 
-[Other useful notes.](https://github.com/hsuay/College/tree/master/Theory%20Of%20Computation/Notes) | [Summary](https://github.com/hsuay/College/blob/master/Theory%20Of%20Computation/Notes/summary.pdf)
+[Other useful notes](https://github.com/hsuay/College/tree/master/Theory%20Of%20Computation/Notes) | [Summary](https://github.com/hsuay/College/blob/master/Theory%20Of%20Computation/Notes/summary.pdf)
 
 ## **Simulation**
 
