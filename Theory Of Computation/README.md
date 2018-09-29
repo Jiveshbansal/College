@@ -10,8 +10,7 @@ Complete introduction to Theory of Computation: [PDF](https://git.io/fxf3Y)
 
 ## **Simulation**
 
-> You can create, test, generate(from regex) and run FSMs, T
-> uring Machines using **JFLAP**.
+> You can create, test, generate(from regex) and run FSMs, Turing Machines using **JFLAP**.
 >
 > Download and run it like a regular program.
 
