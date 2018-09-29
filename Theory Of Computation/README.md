@@ -18,7 +18,7 @@ Complete introduction to Theory of Computation: [PDF](https://git.io/fxf3Y)
 
 ## **RegEx to Automata Converters**
 
-- [Regular Expressions to NFA, DFA](https://hokein.github.io/Automata.js/)
+- [Regular Expressions to NFA, DFA](https://hokein.github.io/Automata.js/) (Recommended)
 - Alternate Site
   - [RegEx to NFA](https://cyberzhg.github.io/toolbox/regex2nfa)
   - [RegEx to DFA](https://cyberzhg.github.io/toolbox/nfa2dfa)
