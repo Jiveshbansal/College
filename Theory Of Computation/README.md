@@ -32,17 +32,20 @@ Complete introduction to Theory of Computation: <a href="https://git.io/fxf3Y" t
 
   Visually,
 
-  <p align="center">  
-  <img src="https://latex.codecogs.com/gif.latex?a^&plus;&space;=&space;a&space;(a*)" title="a^+ = a (a*)" />
-  </p>
+    <p align="center" style="pointer-events:none
+  ">  
+    <img src="https://latex.codecogs.com/gif.latex?a^&plus;&space;=&space;a&space;(a*)" title="a^+ = a (a*)" />
+    </p>
 
-* ### NFA to DFA
+#
+
+- ### NFA to DFA
 
   - <a href="http://condor.depaul.edu/glancast/444class/docs/nfa2dfa.html" target="_blank">An example</a>
   - <a href="http://www.idt.mdh.se/kurser/cd5560/10_01/examination/examination/NFA-DFA.pdf" target="_blank">The subset construction</a>
   - <a href="https://www.youtube.com/watch?v=OZksTVJDwbY&list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz&t=0s&index=8" target="_blank">Video tutorial</a>
 
-* ### Combining DFAs
+- ### Combining DFAs
   - <a href="https://stackoverflow.com/questions/14676833/combining-deterministic-finite-automata" target="_blank">Intersection of two DFAs (AND/Concatenation)</a>
 
 ## **RegEx to Automata Converters**
