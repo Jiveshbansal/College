@@ -6,7 +6,9 @@
 
 - [**Introduction**](#introduction)
 - [**Resources (Tutorials, etc)**](#resources)
+  - [RegEx to NFA conversion](#regex-to-nfa)
   - [NFA to DFA conversion](#nfa-to-dfa)
+  - [Combining DFAs (Union/Intersection of two DFAs)](#combining-dfas)
 - Tools
   - [**RegEx to Automata Converters**](#regex-to-automata-converters)
   - [**Simulation**](#simulation)
@@ -17,10 +19,23 @@ Complete introduction to Theory of Computation: <a href="https://git.io/fxf3Y" t
 
 [Other useful notes](https://github.com/hsuay/College/tree/master/Theory%20Of%20Computation/Notes) | [Summary](https://github.com/hsuay/College/raw/master/Theory%20Of%20Computation/Notes/summary.pdf)
 
-##Resources
+## Resources
 
-- NFA to DFA
+- ### RegEx to NFA
+
+  - <a href="https://en.wikipedia.org/wiki/Thompson%27s_construction#Rules" target="_blank">Thompson's Construction</a>
+    <p align="center">
+    <img src="https://cl.ly/5a2c56ce464b/Image%202018-10-02%20at%2010.10.54%20PM.png" href="http://www.cs.may.ie/staff/jpower/Courses/Previous/parsing/node5.html">
+    </p>
+
+* ### NFA to DFA
+
+  - <a href="http://condor.depaul.edu/glancast/444class/docs/nfa2dfa.html" target="_blank">An example</a>
   - <a href="http://www.idt.mdh.se/kurser/cd5560/10_01/examination/examination/NFA-DFA.pdf" target="_blank">The subset construction</a>
+  - <a href="https://www.youtube.com/watch?v=OZksTVJDwbY&list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz&t=0s&index=8" target="_blank">Video tutorial</a>
+
+* ### Combining DFAs
+  - <a href="https://stackoverflow.com/questions/14676833/combining-deterministic-finite-automata" target="_blank">Intersection of two DFAs (AND/Concatenation)</a>
 
 ## **RegEx to Automata Converters**
 
