@@ -32,7 +32,7 @@ Complete introduction to Theory of Computation: <a href="https://git.io/fxf3Y" t
 
     <div align="center"  style="pointer-events:none; cursor:default">  
     <p>Visually,</p>
-    <img src="https://latex.codecogs.com/gif.latex?a^&plus;&space;=&space;a&space;(a*)" title="a^+ = a (a*)" />
+    <img src="http://mathurl.com/ycqvp4st.png"/>
     </div>
 
 #
