@@ -30,12 +30,10 @@ Complete introduction to Theory of Computation: <a href="https://git.io/fxf3Y" t
 
   > **NOTE**: The Kleene Plus/Positive Closure operator (<sup>+</sup>) is equivalent to the concatenation of a single instance of the operand with it's Kleene Star(<sup>\*</sup>).
 
-  Visually,
-
-    <p align="center" style="pointer-events:none
-  ">  
+    <div align="center"  style="pointer-events:none; cursor:default">  
+    <p>Visually,</p>
     <img src="https://latex.codecogs.com/gif.latex?a^&plus;&space;=&space;a&space;(a*)" title="a^+ = a (a*)" />
-    </p>
+    </div>
 
 #
 
