@@ -28,6 +28,14 @@ Complete introduction to Theory of Computation: <a href="https://git.io/fxf3Y" t
     <img src="https://cl.ly/5a2c56ce464b/Image%202018-10-02%20at%2010.10.54%20PM.png" href="http://www.cs.may.ie/staff/jpower/Courses/Previous/parsing/node5.html">
     </p>
 
+  > **NOTE**: The Kleene Plus/Positive Closure operator (<sup>+</sup>) is equivalent to the concatenation of a single instance of the operand with it's Kleene Star(<sup>\*</sup>).
+
+  Visually,
+
+  <p align="center">  
+  <img src="https://latex.codecogs.com/gif.latex?a^&plus;&space;=&space;a&space;(a*)" title="a^+ = a (a*)" />
+  </p>
+
 * ### NFA to DFA
 
   - <a href="http://condor.depaul.edu/glancast/444class/docs/nfa2dfa.html" target="_blank">An example</a>
