@@ -1,12 +1,33 @@
 [![](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://www.youtube.com/watch?v=LlU4FuIJT2k "( ͡° ͜ʖ ͡°)")
 
-# Theory Of Computation
+# Theory Of Computation <!-- omit in toc -->
+
+## **Contents** <!-- omit in toc -->
+
+- [**Introduction**](#introduction)
+- [**Resources (Tutorials, etc)**](#resources)
+  - [NFA to DFA conversion](#nfa-to-dfa)
+- Tools
+  - [**RegEx to Automata Converters**](#regex-to-automata-converters)
+  - [**Simulation**](#simulation)
 
 ## **Introduction**
 
-Complete introduction to Theory of Computation: <a href="https://git.io/fxf3Y" target="_blank">PDF</a>
+Complete introduction to Theory of Computation: <a href="https://git.io/fxf3Y" target="_blank">PDF</a> | <a href="https://goo.gl/wBqUju" target="_blank">Video Playlist</a>
 
 [Other useful notes](https://github.com/hsuay/College/tree/master/Theory%20Of%20Computation/Notes) | [Summary](https://github.com/hsuay/College/raw/master/Theory%20Of%20Computation/Notes/summary.pdf)
+
+##Resources
+
+- NFA to DFA
+  - <a href="http://www.idt.mdh.se/kurser/cd5560/10_01/examination/examination/NFA-DFA.pdf" target="_blank">The subset construction</a>
+
+## **RegEx to Automata Converters**
+
+- [Regular Expressions to NFA, DFA](https://hokein.github.io/Automata.js/) (Recommended)
+- Alternate Site
+  - [RegEx to NFA](https://cyberzhg.github.io/toolbox/regex2nfa)
+  - [RegEx to DFA](https://cyberzhg.github.io/toolbox/nfa2dfa)
 
 ## **Simulation**
 
@@ -24,11 +45,4 @@ Preview:
 
 </p>
 
-## **RegEx to Automata Converters**
-
-- [Regular Expressions to NFA, DFA](https://hokein.github.io/Automata.js/) (Recommended)
-- Alternate Site
-  - [RegEx to NFA](https://cyberzhg.github.io/toolbox/regex2nfa)
-  - [RegEx to DFA](https://cyberzhg.github.io/toolbox/nfa2dfa)
-
-###### ~~ayush~~
+###### ~~ayush~~ <!-- omit in toc -->
